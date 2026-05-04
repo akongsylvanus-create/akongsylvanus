@@ -1,4 +1,4 @@
-# Precious Andrew - Data Analysis Portfolio
+# Sylvanus Akong - Data Analysis Portfolio
 
  This repository showcases my projects in data visualization, business intelligence, and analytics.
 
@@ -12,15 +12,17 @@ This portfolio demonstrates my skills in:
 
 ## Projects
 
-### Healthcare Performance Analysis
-Analysis of patient admissions, billing, and demographics across US hospitals from 2019-2024.
+###  U.S Presidential Election 2024
+Analysis of election result, electronic vote,vote percent and total vote across US state.
 
-### Renewable Energy Consumption (USA)
-Analysis of US renewable energy trends from 1970 to present, by source and sector.
+### Company Attrition 2025
+Analysis of company attrition trends from department, job role and salary, by gender.
 
-### US Electricity Generation Analysis
-Examination of electricity generation patterns and CO2 emissions across US states.
+### Analysis of AI Impact on Student Life in 2026
+Examination of the high level Ai tools impact on student effectiveness and productivity.
 
+### Company Sales Performance 
+Analysis of sales performance of total sales, operational profits, product sales across the region.
 
 ## Skills
 
