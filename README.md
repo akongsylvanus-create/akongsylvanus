@@ -29,7 +29,7 @@ Analysis of sales performance of total sales, sales by Rep, product sales across
 
 ## Skills
 
-- **Data Visualization**: Power BI, Tableau
+- **Data Visualization**: Power BI, Python
 - **Data Analysis**: SQL,Excel, Google Sheets
 - **Data Modeling**: Power Query, DAX, Star Schema Design
 - **Tools**: Excel, Power BI Desktop, Power BI Service
