@@ -15,14 +15,17 @@ This portfolio demonstrates my skills in:
 ###  U.S Presidential Election 2024
 Analysis of election result, electronic vote,vote percent and total vote across US state.
 
-### Company Attrition 2025
-Analysis of company attrition trends from department, job role and salary, by gender.
+### HR Attrition Analysis 2025
+Analysis of company HR attrition trends from department, job role and salary, by gender.
 
 ### Analysis of AI Impact on Student Life in 2026
 Examination of the high level Ai tools impact on student effectiveness and productivity.
 
 ### Company Sales Performance 
 Analysis of sales performance of total sales, operational profits, product sales across the region.
+
+### Retail Store Sales Performance Analysis 
+Analysis of sales performance of total sales, sales by Rep, product sales across the region
 
 ## Skills
 
