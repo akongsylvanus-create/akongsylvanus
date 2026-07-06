@@ -24,7 +24,7 @@ Examination of the high level Ai tools impact on student effectiveness and produ
 ### Company Sales Performance 
 Analysis of sales performance of total sales, operational profits, product sales across the region.
 
-### Retail Store Sales Performance Analysis 
+### Sales Performance Analysis 
 Analysis of sales performance of total sales, sales by Rep, product sales across the region
 
 ## Skills
