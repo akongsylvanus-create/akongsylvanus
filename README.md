@@ -12,7 +12,7 @@ This portfolio demonstrates my skills in:
 
 ## Projects
 
-###  U.S Presidential Election 2024
+###  U.S Presidential Election 2023
 Analysis of election result, electronic vote,vote percent and total vote across US state.
 
 ### HR Attrition Analysis 2025
