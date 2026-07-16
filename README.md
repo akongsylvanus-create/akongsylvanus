@@ -15,7 +15,7 @@ This portfolio demonstrates my skills in:
 ###  U.S Presidential Election 2023
 Analysis of election result, electronic vote,vote percent and total vote across US state.
 
-### HR Attrition Analysis 2025
+### HR Attrition Analytics 
 Analysis of company HR attrition trends from department, job role and salary, by gender.
 
 ### Analysis of AI Impact on Student Life in 2026
