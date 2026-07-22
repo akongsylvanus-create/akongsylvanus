@@ -16,7 +16,7 @@ This portfolio demonstrates my skills in:
 Analysis of election result, electronic vote,vote percent and total vote across US state.
 
 ### HR Attrition Analytics 
-Analysis of company HR attrition trends from department, job role and salary, by gender.
+Analyze employee attrition patterns to identify the factors influencing workforce turnover and provide insights that support employee retention and strategic workforce planning.
 
 ### Analysis of AI Impact on Student Life in 2026
 Examination of the high level Ai tools impact on student effectiveness and productivity.
