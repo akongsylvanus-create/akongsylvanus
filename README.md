@@ -21,8 +21,8 @@ Analysis of company HR attrition trends from department, job role and salary, by
 ### Analysis of AI Impact on Student Life in 2026
 Examination of the high level Ai tools impact on student effectiveness and productivity.
 
-### Company Sales Performance 
-Analysis of sales performance of total sales, operational profits, product sales across the region.
+### Sales Performance Analysis Dashboard 
+Analyze sales performance to identify revenue trends, top-performing products, customer behavior, and regional performance.
 
 ### Sales Performance Analysis 
 Analysis of sales performance of total sales, sales by Rep, product sales across the region
