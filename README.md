@@ -24,8 +24,8 @@ Examination of the high level Ai tools impact on student effectiveness and produ
 ### Sales Performance Analysis Dashboard 
 Analyze sales performance to identify revenue trends, top-performing products, customer behavior, and regional performance.
 
-### Sales Performance Analysis 
-Analysis of sales performance of total sales, sales by Rep, product sales across the region
+### Vaccine Administration Analysis 
+Analyze vaccine administration data to monitor immunization coverage, identify vaccination trends, evaluate program performance, and support public health decision-making.
 
 ## Skills
 
