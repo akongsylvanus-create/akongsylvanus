@@ -12,14 +12,8 @@ This portfolio demonstrates my skills in:
 
 ## Projects
 
-###  U.S Presidential Election 2023
-Analysis of election result, electronic vote,vote percent and total vote across US state.
-
 ### HR Attrition Analytics 
 Analyze employee attrition patterns to identify the factors influencing workforce turnover and provide insights that support employee retention and strategic workforce planning.
-
-### Analysis of AI Impact on Student Life in 2026
-Examination of the high level Ai tools impact on student effectiveness and productivity.
 
 ### Sales Performance Analysis Dashboard 
 Analyze sales performance to identify revenue trends, top-performing products, customer behavior, and regional performance.
@@ -27,6 +21,8 @@ Analyze sales performance to identify revenue trends, top-performing products, c
 ### Vaccine Administration Analysis 
 Analyze vaccine administration data to monitor immunization coverage, identify vaccination trends, evaluate program performance, and support public health decision-making.
 
+### Income and Expense Tracker
+This project is focused on the most challenging thing businesses struggle with, monitoring cash flow, track expenses, and determine profitability due to poor financial record-keeping.
 ## Skills
 
 - **Data Visualization**: Power BI, Python
