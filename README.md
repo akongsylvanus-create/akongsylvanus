@@ -21,7 +21,7 @@ Analyze sales performance to identify revenue trends, top-performing products, c
 ### Vaccine Administration Analysis 
 Analyze vaccine administration data to monitor immunization coverage, identify vaccination trends, evaluate program performance, and support public health decision-making.
 
-### Income and Expense Tracker
+### Income and Expense Tracker Dashboard
 This project is focused on the most challenging thing businesses struggle with, monitoring cash flow, track expenses, and determine profitability due to poor financial record-keeping.
 ## Skills
 
